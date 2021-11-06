@@ -119,7 +119,7 @@ const BookingModal = ({
                             sx={{ width: "90%", m: 1 }}
                             id="outlined-size-small"
                             name="phone"
-                            defaultValue="Phone Number"
+                            placeholder="Enter Phone Number"
                             size="small"
                             onBlur={handleOnBlur}
                         />
